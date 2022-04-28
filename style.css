@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 100vh;
+    background: #8900af;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:beige;
+}
+
+.main-heading h2{
+    margin-bottom: 20px;
+}
+
+button{
+    display: inline-block;
+    background: #e5a3ff;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+}
+
+img{
+    width: 100px;
+}
