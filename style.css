@@ -15,9 +15,13 @@ body{
     color:beige;
 }
 
-.main-heading{
-    display:inline-block;
+/* .main-heading{
+    display:flex;
     margin-bottom: 20px;
+} */
+.button-styling {
+    display: flex;
+    margin-right: 30px;
 }
 
 button{
